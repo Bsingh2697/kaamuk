@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837128188135",
+    "firebase_url": "https://kaamuk-9f433-default-rtdb.firebaseio.com",
+    "project_id": "kaamuk-9f433",
+    "storage_bucket": "kaamuk-9f433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837128188135:android:90cede264f337fb077f242",
+        "android_client_info": {
+          "package_name": "com.example.kaamuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837128188135-egekiiooee2q0b870q5eb0c17v3n1gr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGWWdZUhHeJ9Vys0Ey1xZstjPqbYhQczY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837128188135-egekiiooee2q0b870q5eb0c17v3n1gr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
